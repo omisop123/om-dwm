@@ -1,1 +1,2 @@
-# om-dwm
+fonts are
+iosevka firacode joypixels
